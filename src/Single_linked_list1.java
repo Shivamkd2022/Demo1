@@ -51,6 +51,7 @@ public class Single_linked_list1 {
     }
 
     public static void main(String[] args) {
+        System.out.println("main method start");
 
         Single_linked_list1 sList = new Single_linked_list1();
 
